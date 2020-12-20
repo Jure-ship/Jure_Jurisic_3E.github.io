@@ -1,0 +1,268 @@
+body {
+    font-family: 'Rubik', sans-serif;
+    background-color: #060507;
+    position: absolute;
+    left: 163px;
+    top: 149px;
+    z-index: 1;
+}
+.backimg {
+    position: absolute;
+    left: -170px;
+    top: 275px;
+    position:left bottom;
+    z-index: -1;
+}
+.content {
+    position: absolute;
+    width: 1912px;
+    height: 1129px;
+    left: -2px;
+    top: -1px;
+    background-color: #060507;
+    z-index: -1;
+    border: 2px solid #FFFFFF;
+    box-sizing: border-box;
+    border-radius: 32px;
+}
+.icon {
+    position: absolute;
+    left: -102px;
+    top: -102px;
+}
+.header {
+    position: absolute;
+    background-color: transparent;
+    width: 285px;
+    color: #ffffff;
+    list-style: none;
+}
+.header h1 {
+    float: left;
+    font-weight: bold;
+    margin-left: 63px;
+    margin-top: 55px;
+}
+.header .icon1 {
+    padding-top: 20%;
+    margin-left: 8px;
+    float: left;
+}
+.header .main_menu {
+    margin-top: 64px;
+    display: flex;
+}
+.header .main_menu li {
+    margin-left: 180px;
+}
+.header .main_menu li a {
+    position: absolute;
+    color: white;
+    font-size: 16px;
+    font-weight: 500;
+    text-align: center;
+    text-decoration: none; 
+}
+.slika1 {
+    position: absolute;
+    width: 1032px;
+    height: 700px;
+    left: 0px;
+    top:114px;
+}
+.slika2 {
+    position: absolute;
+    left: 0px;
+    top: 740px;
+    right: 30px;
+}
+.slika3 {
+    position: absolute;
+    left: 1346.5px;
+    top: 0px;
+    right: 0.5px;
+    z-index: -1;
+}
+.sidenav {
+    width: 344px;
+    height: 721px;
+    left: 1533px;
+    top: 375px;
+    padding-left:20px;
+    position: relative;
+    background-color: #060507; 
+    padding-top: 20px;
+    color: #ffffff;
+}
+.sidenav .box1 {
+    position: absolute;
+    height:100px;
+  }
+.sidenav .box1 .tekst1 {
+    text-align: center;
+    height:100px;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 42px;
+    float:left;
+    margin-top:-113px;
+    font-size: 18px;
+    color: #3F3E44;
+    transform: rotate(-90deg);
+}
+.sidenav .box .tekst2 {
+font-family: 'Rubik', sans-serif;
+font-style: normal;
+  margin-left:70px;
+  margin-right:10px;
+  font-size: 12px;
+  line-height: 15px;
+  letter-spacing: 0.05em;
+}
+.sidenav .box .tekst3 {
+  margin-left:70px;
+  margin-right: 10px;
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 12px;
+  letter-spacing: 0.05em;
+  align-items: center;
+}
+.sidenav .box .tekst4 {
+font-family: 'Rubik', sans-serif;
+font-style: normal;
+  margin-left:70px;
+  font-size: 12px;
+  line-height: 12px;
+  letter-spacing: 0.05em;
+}
+.sidenav .box2 {
+    margin-top: 50%;
+    position: absolute;
+    height:100px;
+}
+.sidenav .box2 .tekst1 {
+    padding-left: 35px;
+    text-align: center;
+    height:100px;
+    float:left;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 42px;
+    margin-top: -50%;
+    color: #3F3E44;
+    font-size: 18px;
+    transform: rotate(-90deg);
+}
+.sidenav .box3 {
+    margin-top: 100%;
+    position: absolute;
+    height:100px;
+}
+.sidenav .box3 .tekst1 {
+    padding-left: 25px;
+    text-align: center;
+    height:100px;
+    color: #3F3E44;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 42px;
+    float:left;
+    margin-top: -40%;
+    font-size: 18px;
+    transform: rotate(-90deg);
+}
+.sidenav .box4 {
+    margin-top: 150%;
+    position: absolute;
+    height:100px;
+}
+.sidenav .box4 .tekst1 {
+    padding-left: 23px;
+    text-align: center;
+    display:flex;
+    color: #3F3E44;
+    height:160px;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 42px;
+    float:left;
+    margin-top: -80%;
+    font-size: 18px;
+    transform: rotate(-90deg);
+}
+.dvije_slike {
+    display: block;
+    float: left;
+}
+.dvije_slike .slika4 {
+    position: absolute;  
+    top: 164px;
+    left: 1217px;
+    z-index: -1;    
+}
+.dvije_slike .slika5 {
+    position: absolute; 
+    top: 868px;
+    left: 1217px;
+    z-index: -1;
+}
+.slika6 {
+    position: absolute;
+    left: 974px;
+    top: 214px;
+}
+.infobox {
+    position: relative;
+    width: 911.04px;
+    height: 89.71px;
+    left: 99px;
+    margin-top: 220px;
+}
+.infobox .tekst {
+font-family: 'Rubik', sans-serif;
+font-weight: 300;
+font-size: 12px;
+margin-top:0px;
+color:#ffffff;
+line-height: 200%;
+float:right;
+align-items: center;
+width: 396.44px;
+}
+.infobox .line1 {  
+    position:absolute;
+    left:11%;
+     height: 1.95px;
+     top: 64%;
+     width: 220px;
+     background: #ffffff;
+    }
+    .infobox .line2 {
+      position:absolute;
+      left:11%;
+      height: 1.95px;
+      top: 64%;
+      width: 136px;
+      background: #A75B12;
+    }
+    .infobox .broj {
+      font-weight: 500;
+      font-size: 18px;
+      letter-spacing: 0.5em;
+      line-height: 183%;
+      color: #ffffff;
+    }
+    .infobox .broj .minit1 {
+      top: 50%;
+      position: absolute;
+      float: left;
+      left: 0;
+    }
+    .infobox .broj .minit2 {
+      top: 50%;
+      position: absolute;
+      float: right;
+      right: 50%;
+      text-align: right;
+  }
